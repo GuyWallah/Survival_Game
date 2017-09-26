@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Game", "First Game.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Game.Editor.Plugins", "First Game.Editor.Plugins.csproj", "{AEFB92CD-050C-FEA2-EBB1-EC2D9DEA51B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Game.Editor", "First Game.Editor.csproj", "{AD9CDB0B-53B1-9E7B-16EB-DDB8CD06C036}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{AEFB92CD-050C-FEA2-EBB1-EC2D9DEA51B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEFB92CD-050C-FEA2-EBB1-EC2D9DEA51B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEFB92CD-050C-FEA2-EBB1-EC2D9DEA51B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9CDB0B-53B1-9E7B-16EB-DDB8CD06C036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9CDB0B-53B1-9E7B-16EB-DDB8CD06C036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9CDB0B-53B1-9E7B-16EB-DDB8CD06C036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9CDB0B-53B1-9E7B-16EB-DDB8CD06C036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

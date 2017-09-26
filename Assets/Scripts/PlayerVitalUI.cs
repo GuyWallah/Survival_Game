@@ -25,6 +25,7 @@ public class PlayerVitalUI : MonoBehaviour {
     private CharacterController CharControler;
     private FirstPersonController PlayerControler;
 
+
     private void Start()
     {
         HealthSlider.maxValue = MaxHealth;
@@ -97,7 +98,7 @@ public class PlayerVitalUI : MonoBehaviour {
 
     void Death()
     {
-
+        //When you die......
     }
 
 
